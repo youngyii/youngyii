@@ -1,6 +1,5 @@
 ![header](./header.svg)
-
-
+![Youngyii's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=youngyii&theme=shades-of-purple&show_icons=true)
 
 
 <!--
